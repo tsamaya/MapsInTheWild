@@ -6,7 +6,7 @@ const withBundleAnalyzer = bundleAnalyzer({
 
 export default withBundleAnalyzer({
   output: 'export',
-  assetPrefix: process.env.NODE_ENV === 'production' ? './MapsInTheWild' : undefined,
+  assetPrefix: './',
   reactStrictMode: false,
   eslint: {
     ignoreDuringBuilds: true,
