@@ -19,7 +19,7 @@ This template comes with the following features:
 
 - `dev` – start dev server
 - `build` – bundle application for production
-- `export` – exports static website to `out` folder
+- `export` – exports static website to `out` folder, same as `build`
 - `analyze` – analyzes application bundle with [@next/bundle-analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
 
 ### Testing scripts
